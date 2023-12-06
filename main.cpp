@@ -14,7 +14,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     Promociones prom;
-    
+    /*EN ESTE PROGRAMA SE HARÁ POLIMORFISMO*/
     prom.leepedidos();
     prom.actualizapedidos();
     prom.imprimepedidos();
